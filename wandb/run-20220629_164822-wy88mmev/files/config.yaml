@@ -1,0 +1,68 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.18
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.12
+    start_time: 1656488902
+    t:
+      1:
+      - 1
+      - 55
+      2:
+      - 1
+      - 55
+      3:
+      - 1
+      - 17
+      4: 3.9.12
+      5: 0.12.18
+      8:
+      - 3
+      - 5
+att_type:
+  desc: null
+  value: null
+base_folder:
+  desc: null
+  value: ./data
+batch_size:
+  desc: null
+  value: 1
+comments:
+  desc: null
+  value: null
+deep_supervision:
+  desc: null
+  value: false
+device:
+  desc: null
+  value: cuda:0
+ds_conv:
+  desc: null
+  value: false
+epochs:
+  desc: null
+  value: 500
+kfold_idx:
+  desc: null
+  value: 0
+label_fn:
+  desc: null
+  value: ./data/data_split.csv
+lr:
+  desc: null
+  value: 0.001
+parallel:
+  desc: null
+  value: false
+reduction_ratio:
+  desc: null
+  value: 4
+save_folder:
+  desc: null
+  value: ./checkpoint

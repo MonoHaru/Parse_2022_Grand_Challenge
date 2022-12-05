@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-29T07:48:24.022869",
+    "startedAt": "2022-06-29T07:48:22.292869",
+    "docker": null,
+    "gpu": "GeForce RTX 3090",
+    "gpu_count": 2,
+    "cpu_count": 36,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "E:\\Parse2022\\main.py",
+    "codePath": "main.py",
+    "host": "DESKTOP-A0V01KV",
+    "username": "default",
+    "executable": "C:\\Users\\default.DESKTOP-A0V01KV\\anaconda3\\envs\\parse\\python.exe"
+}

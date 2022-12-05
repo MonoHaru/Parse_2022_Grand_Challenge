@@ -1,0 +1,4 @@
+total ecpochs : 500
+time taken : 4 days, 11:35:41.317934
+best_train_metric 0.9041249720255534 w/ loss 0.07823633059859275 at epoch : 489
+best_valid_metric 0.8640180373191834 w/ loss 0.11636645197868348 at epoch : 468

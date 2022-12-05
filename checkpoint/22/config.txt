@@ -1,0 +1,14 @@
+device : cuda:1
+parallel : False
+base_folder : ./data
+save_folder : ./checkpoint
+label_fn : ./data/data_split.csv
+kfold_idx : 0
+epochs : 500
+batch_size : 1
+lr : 0.001
+ds_conv : False
+deep_supervision : False
+att_type : CBAM
+reduction_ratio : 4
+comments : None
